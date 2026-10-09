@@ -521,9 +521,7 @@ function ContactSection() {
 
       <div className="rounded-3xl border border-[#E4D5C3] bg-[#FAF7F1] p-7 sm:p-9">
         <h4 className="text-xl font-bold">Contact Form</h4>
-        <p className="mt-2 text-sm text-[#766657]">
-          Complete the fields below to test the form.
-        </p>
+        
 
         <form onSubmit={handleSubmit} className="mt-6 space-y-5" noValidate>
           <div>
