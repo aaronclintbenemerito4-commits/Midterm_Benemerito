@@ -1,0 +1,28 @@
+
+AARON CLINT BENEMERITO
+Bachelor of Science in Information Technology
+Cavite State University - Tanza Campus
+
+CAREER OBJECTIVE
+To improve my technical skills and gain experience in
+information technology, programming, and application development.
+
+EDUCATION
+Bachelor of Science in Information Technology
+Cavite State University - Tanza Campus
+
+TECHNICAL SKILLS
+- HTML and CSS
+- JavaScript
+- ReactJS
+- Basic Database Management
+- Problem Solving
+
+PROJECTS
+- React Calculator
+- Pet Street Veterinary Clinic System Prototype
+
+INTERESTS
+- Programming
+- Web Development
+- Learning New Technologies
