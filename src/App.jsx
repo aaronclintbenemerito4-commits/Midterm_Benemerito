@@ -93,9 +93,13 @@ function App() {
               Bachelor of Science in Information Technology
             </p>
           </div>
-          <div className="rounded-full border border-[#D3C1AD] bg-[#FAF7F1] px-4 py-2 text-xs font-medium text-[#765744]">
-            Cavite State University · Tanza
-          </div>
+         
+<img
+  src="/aaron-profile.jpg"
+  alt="Portrait of Aaron Clint Benemerito"
+  className="h-20 w-20 rounded-2xl border-4 border-[#FAF7F1] object-cover shadow-md sm:h-24 sm:w-24"
+/>
+
         </header>
 
         {activePage === 'Home' && (
