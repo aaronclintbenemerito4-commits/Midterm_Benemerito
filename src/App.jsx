@@ -95,7 +95,7 @@ function App() {
           </div>
          
 <img
-  src="/aaron-profile.jpg"
+  src="/images/aaron-profile.jpg"
   alt="Portrait of Aaron Clint Benemerito"
   className="h-20 w-20 rounded-2xl border-4 border-[#FAF7F1] object-cover shadow-md sm:h-24 sm:w-24"
 />
